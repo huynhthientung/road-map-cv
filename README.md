@@ -7,7 +7,7 @@ Tối thiểu **16** tín chỉ
 | 1. Nhập môn Thị giác máy tính  | CS231  | Học  |   |
 | 2. Nhập môn Thị giác máy tính nâng cao | CS331  |   |   
 | 3. Nhận dạng  | CS338  |   |   |
-| 4. Đồ họa máy tính  | CS105  |   |   |
+| 4. Đồ họa máy tính  | CS105  | Học |   |
 | 5. Thị giác máy tính trong tương tác người – máy  | CS532  |   |
 # 2. Nhóm môn học tự chọn tự do
 Tối thiểu **10** tín chỉ
@@ -23,8 +23,6 @@ Tối thiểu **10** tín chỉ
 |  Môn học | Mã môn học  | Tình trạng  | Ghi chú |
 |---|:-:|:-:|---|
 | 1. Mạng Neural và Thuật giải di truyền  | CS410  |   |   |
-| 2. Các kĩ thuật học sâu và ứng dụng | CS431  |  Học |   |
+| 2. Các kĩ thuật học sâu và ứng dụng | CS431  |  |   |
 | 3. Xử lý ảnh và ứng dụng  | CS406  |   |   |
 
-# Thời khóa biểu dự kiến học kì 5 
-![alt text](https://raw.githubusercontent.com/huynhthientung/road-map-cv/master/time_table.png "Time table 5th semester")

@@ -13,16 +13,15 @@ Tối thiểu **16** tín chỉ
 Tối thiểu **10** tín chỉ
 |  Môn học | Mã môn học  | Tình trạng  | Ghi chú |
 |---|:-:|:-:|---|
-| 1. Tính toán Đa phương tiện  | CS232  |   |   |
-| 2. Truy vấn thông tin đa phương tiện | CS336  |  Học |   |
-| 3. Trí tuệ nhân tạo | CS106  | Học  |  |
-| 4. Xử lý ngôn ngữ tự nhiên | CS221  |  Học |  |
-| 5. Máy học trong Thị giác máy tính| CS221  |   |   |
+| 1. Truy vấn thông tin đa phương tiện | CS336  |  Học |   |
+| 2. Trí tuệ nhân tạo | CS106  | Học  |  |
+| 3. Xử lý ngôn ngữ tự nhiên | CS221  |  Học |  |
+| 4. Máy học trong Thị giác máy tính| CS221  |   |   |
 # 3. Nhóm môn học thay thế khóa luận tốt nghiệp
 Tối thiểu **10** tín chỉ
 |  Môn học | Mã môn học  | Tình trạng  | Ghi chú |
 |---|:-:|:-:|---|
-| 1. Mạng Neural và Thuật giải di truyền  | CS410  |   |   |
+| 1. Tính toán Đa phương tiện  | CS232  |   |   |
 | 2. Các kĩ thuật học sâu và ứng dụng | CS431  |  |   |
 | 3. Xử lý ảnh và ứng dụng  | CS406  |   |   |
 
